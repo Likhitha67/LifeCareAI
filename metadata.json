@@ -1,0 +1,6 @@
+{
+  "name": "LifeCare AI",
+  "description": "LifeCare AI - Personal Health & Document Assistant with Smart Document Vault, OCR Reader, Expiry Reminders, and Medicine Strip Scanner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
